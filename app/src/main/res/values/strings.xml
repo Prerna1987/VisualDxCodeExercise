@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VisualDxCodeChallenge</string>
+    <string name="home">Home</string>
+    <string name="account">My Account</string>
+    <string name="notification">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome_account_fragment">Welcome to My Account</string>
+    <string name="welcome_notification_fragment">Welcome to Notifications</string>
+    <string name="search">Search</string>
+</resources>

@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\drawable\\ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "codechallenge.app-merged_res-30:/layout_fragment_home.xml.flat",
+        "source": "codechallenge.app-main-32:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-pngs-25:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\drawable_ic_baseline_notifications_24.xml.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\drawable\\ic_baseline_notifications_24.xml"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\layout_fragment_home.xml.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\xml_backup_rules.xml.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\layout_fragment_notifications.xml.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\xml_data_extraction_rules.xml.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\layout_fragment_account.xml.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\menu_navigation_menu.xml.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\layout_dropdown_row.xml.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\layout\\dropdown_row.xml"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\layout_activity_main.xml.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "codechallenge.app-merged_res-30:/layout_dropdown_row.xml.flat",
+        "source": "codechallenge.app-main-32:/layout/dropdown_row.xml"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-merged_res-30:\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\daemon\\7.3.3\\codechallenge.app-main-32:\\drawable\\ic_baseline_home_24.xml"
+    }
+]

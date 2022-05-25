@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "codechallenge.app-mergeDebugResources-28:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "E:\\Samples\\Kotlin\\Android-Example-master\\Android-Example-master\\MVVMwithKotlinCoroutinesandRetrofit\\caches\\transforms-3\\cff502c288666526bf59c2c3f1968edd\\transformed\\appcompat-1.4.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
